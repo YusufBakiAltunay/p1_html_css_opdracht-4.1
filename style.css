@@ -1,6 +1,8 @@
+
+
 h1{
     font-size: 24px ;
-    color: blue;
+    color: aquamarine;
     font-weight: bold;
     font-style: italic;
 }
@@ -25,9 +27,23 @@ p{
 
 .eerst{
     font-weight: bold;
+    color: aliceblue;
 }
 
 a{
     color: #8A2BE2;
     text-decoration: none;
+}
+
+header{
+    width: 100%;
+    height: 33vh;
+    background-image:url(img/images.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+}
+
+img{
+    width: 500px;
 }
