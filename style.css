@@ -44,6 +44,13 @@ header{
     background-position: center; 
 }
 
-img{
-    width: 500px;
+ img{
+    width: 50vw;
+}
+
+article{
+    border: 2px red solid;
+    margin-top: 5px;
+    border-radius: 10px;
+    border-left-width: 5px;
 }
